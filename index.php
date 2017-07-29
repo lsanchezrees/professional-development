@@ -1,4 +1,4 @@
-<!doctype html>s
+<!doctype html>
 	<html>
 <head>
 	<title>Professional Development Homework</title>
