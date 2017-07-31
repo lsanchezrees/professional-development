@@ -31,7 +31,7 @@
 	<p>I re-joined LinkedIn and also joined Quora</p>
 	<p>I googled Godfrey, and found one social media platform:  LinkedIn.  I had to google the states with his name to get results, because there are quite a few Godfrey Davises.  I googled his name with New York and then with Albuquerque.  I emailed him the results and he told me he was listed under aliases. He said he is careful about what he puts out on social media.</p>
 	<p>I’m in the process of designing custom business cards.</p>
-	<p>Last one is now complete.</p>
+	<p>The exercise we participated in Friday was fun.  I thought we all got along well and everyone listened to everyone else.  We were able to win the game by working cooperatively.  Everybody spoke up and everybody listened to the others.</p>
 
 
 </body>
