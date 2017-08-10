@@ -24,7 +24,7 @@
 	<p>How:    Study coding and website design</p>
 	<p>What:  Great websites</p>
 
-	<p>Elevator pitch:  Hi, my name is Leonora.  I want to help companies be more successful by creating great websites for them that are beautiful, easy to use and clear and make them more successful.  I’m doing this by learning all aspects of web coding, including Php, JavaScript, and HTML/CSS.</p>
+	<p>Elevator pitch:  Hi, my name is Leonora.  I want to help companies be more successful by creating great websites for them that are beautiful, easy to use and clear.  I’m doing this by learning all aspects of web coding, including Php, JavaScript, and HTML/CSS.</p>
 
 	<h2>Week 2</h2>
 	<p>I already submitted my resume and discussed it with you.</p>
@@ -32,6 +32,21 @@
 	<p>I googled Godfrey, and found one social media platform:  LinkedIn.  I had to google the states with his name to get results, because there are quite a few Godfrey Davises.  I googled his name with New York and then with Albuquerque.  I emailed him the results and he told me he was listed under aliases. He said he is careful about what he puts out on social media.</p>
 	<p>I’m in the process of designing custom business cards.</p>
 	<p>The exercise we participated in Friday was fun.  I thought we all got along well and everyone listened to everyone else.  We were able to win the game by working cooperatively.  Everybody spoke up and everybody listened to the others.</p>
+	<p>Here is a link to my <a href="resume.pdf">resume</a>.</p>
+	<p>Here is a link to my <a href="https://github.com/lsanchezrees">Github</a>.</p>
+	<p>Here is a link to my <a href="https://www.linkedin.com/in/leonora-sanchez-815aaa104/">LinkedIn</a> profile.</p>
+
+	<h2>Week 4</h2>
+	<p>My <a href="resume.pdf">resume</a> has been updated.</p>
+	<p>Here are the questions Godfrey asked me and the answers he recorded:</p>
+	<ol><li>how much experience do you have working with a team.
+			all of your work experience has been basically with a team</li>
+		<li>project manager- obstacle that you overcome is managing people without getting in their way.</li>
+
+		<li>you are flexible if there is an obstacle you take the time to acknowledge what you can improve on.</li>
+
+		<li>you are able to train capable training when put to task</li>
+	</ol>
 
 
 </body>
