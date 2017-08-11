@@ -38,14 +38,17 @@
 
 	<h2>Week 4</h2>
 	<p>My <a href="leonora-sanchezrees-resume.pdf">resume</a> has been updated.</p>
-	<p>Here are the questions Godfrey asked me and the answers he recorded:</p>
-	<ol><li>how much experience do you have working with a team.
-			all of your work experience has been basically with a team</li>
-		<li>project manager- obstacle that you overcome is managing people without getting in their way.</li>
+	<p>Here are the answers Godfrey recorded:</p>
+	<ol><li> internal blocks health issues
+			discouraged by age …  but it prevents you from interviewing or reaching out for opportinties you would have if that wasn't worry
+		</li>
+		<li>hard worker. a nice person and help people get along. i want to help people.
+		</li>
 
-		<li>you are flexible if there is an obstacle you take the time to acknowledge what you can improve on.</li>
+		<li>lots of people have told you that you do and it depends on how you feel about yourself at the moment.
+		</li>
 
-		<li>you are able to train capable training when put to task</li>
+
 	</ol>
 
 
