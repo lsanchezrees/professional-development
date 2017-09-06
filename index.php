@@ -50,6 +50,9 @@
 
 
 	</ol>
+	<h2>Discussion with Godfrey about our web pages</h2>
+	<p>Godfrey showed me his web page, and I was blown away.  I think it is truly beautiful and artistic.  His photos are amazing.  Even more amazing, he taught himself Bootstrap 4 overnight, and created what I think is a sensational page.  I encouraged him to apply for jobs that want artistic ability, because I think he's very talented.</p>
+	<p>Here is the link to my <a href="https://lsanchezwebdeveloper.com" target="_blank">website</a>.</p>
 
 
 </body>
